@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Data Science Portfolio</title>
+    <link>https://szystem.github.io/main/post/</link>
+    <description>Recent content in Posts on My Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio deep learning project</title>
+      <link>https://szystem.github.io/main/post/2022-01-07-deep-learning-trailer/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-01-07-deep-learning-trailer/</guid>
+      <description>Today I started working on a new project. I want to build a neural network in Python, capable of distinguishing various sounds. I am planning to upload it at the beginning of February.</description>
+    </item>
+    
+    <item>
+      <title>Master&#39;s Project Update</title>
+      <link>https://szystem.github.io/main/post/2022-01-06-master1/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-01-06-master1/</guid>
+      <description>My biggest project this year is going to be my Master&amp;rsquo;s Project. In it I extend the possibilities of the EM algorithm to cluster Dirichlet distributed data evolving in time. Project consists of a number of steps:
+ Programming a simple EM algorithm for normally distrubuted data Adjusting the algorithm for the dirichlet distribution Developing the model suitable for a data consisting of observations evolving in time Testing the algorithm on a synthetic data set Cleaning and preparing a real-life data set - marital statuses in countries in different group ages Applying the algorithm for the real data  The .</description>
+    </item>
+    
+    <item>
+      <title>Project Rook Endings</title>
+      <link>https://szystem.github.io/main/post/2022-01-05-project-chessrookendings/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-01-05-project-chessrookendings/</guid>
+      <description>Another project I have made concerns my childhood hobby: the game of chess. This famous data set contains coordinates of three pieces on a chessboard: white king, white rook and black king and optimal depth-of-win for White in 0 to 16 moves, otherwise drawn, assuming that Black moves first. Check out:
+ The project&amp;rsquo;s website The project&amp;rsquo;s repository  </description>
+    </item>
+    
+    <item>
+      <title>Project Stone Flakes</title>
+      <link>https://szystem.github.io/main/post/2022-01-05-project-stoneflakes/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-01-05-project-stoneflakes/</guid>
+      <description>I have uploaded an github my first data science project, called Stone Flakes. It concerns the earliest history of mankind, investigating stone flakes, the waste product of the tools&#39; crafting process. The main question related to the data set is: &amp;ldquo;Does the data reflect the technological progress during several hundred thousand years?” Check out:
+ The project&amp;rsquo;s website The project&amp;rsquo;s repository  </description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://szystem.github.io/main/post/2022-01-04-first-post/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-01-04-first-post/</guid>
+      <description>Hello! I am launching this website as a central point of my professional online presence. Here you can see my projects and other achievements.</description>
+    </item>
+    
+  </channel>
+</rss>
