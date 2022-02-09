@@ -5,14 +5,14 @@
     <link>https://szystem.github.io/main/post/</link>
     <description>Recent content in Posts on My Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Audio deep learning project</title>
-      <link>https://szystem.github.io/main/post/2022-01-07-deep-learning-trailer/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Face recognition techniques comparison</title>
+      <link>https://szystem.github.io/main/post/2022-02-08-face-recognition/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://szystem.github.io/main/post/2022-01-07-deep-learning-trailer/</guid>
-      <description>Today I started working on a new project. I want to build a neural network in Python, capable of distinguishing various sounds. I am planning to upload it at the beginning of February.</description>
+      <guid>https://szystem.github.io/main/post/2022-02-08-face-recognition/</guid>
+      <description>For two weeks my two colleagues and I have been working on a group project, whose goal is to compare the performance of different algorithms in face recognition. We are focused on SVMs with different kernels and convnets. One more goal is to use data augmentation and transfer learning methods to train a network even on a very small data set. Our final goal is to check network vulnerability by incorporating the adversarial machine learning techniques.</description>
     </item>
     
     <item>
