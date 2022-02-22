@@ -5,7 +5,17 @@
     <link>https://szystem.github.io/main/</link>
     <description>Recent content on My Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SVM classifier from scratch</title>
+      <link>https://szystem.github.io/main/post/2022-02-22-svmc/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-02-22-svmc/</guid>
+      <description>As a part of a bigger project, I wrote Support Vector Machine Classifier. It supports multiclass clasification, linear and radial kernels, and both hard and soft margins. Check out:
+ The project&amp;rsquo;s Jupyter Notebook  </description>
+    </item>
+    
     <item>
       <title>Face recognition techniques comparison</title>
       <link>https://szystem.github.io/main/post/2022-02-08-face-recognition/</link>
@@ -41,7 +51,7 @@
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://szystem.github.io/main/post/2022-01-05-project-stoneflakes/</guid>
-      <description>I have uploaded an github my first data science project, called Stone Flakes. It concerns the earliest history of mankind, investigating stone flakes, the waste product of the tools&#39; crafting process. The main question related to the data set is: &amp;ldquo;Does the data reflect the technological progress during several hundred thousand years?” Check out:
+      <description>I have uploaded on github my first data science project, called Stone Flakes. It concerns the earliest history of mankind, investigating stone flakes, the waste product of the tools&#39; crafting process. The main question related to the data set is: &amp;ldquo;Does the data reflect the technological progress during several hundred thousand years?” Check out:
  The project&amp;rsquo;s website The project&amp;rsquo;s repository  </description>
     </item>
     
