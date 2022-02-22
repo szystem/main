@@ -12,7 +12,8 @@
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://szystem.github.io/main/post/2022-02-22-svmc/</guid>
-      <description>As a part of a bigger project, I wrote Support Vector Machine Classifier. It supports multiclass clasification, linear and radial kernels, and both hard and soft margins. Check out:
+      <description>As a part of a bigger project, I wrote Support Vector Machine Classifier. It supports multiclass clasification, linear and radial kernels, and both hard and soft margins.
+Check out:
  The project&amp;rsquo;s Jupyter Notebook  </description>
     </item>
     
