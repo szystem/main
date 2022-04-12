@@ -23,7 +23,8 @@ Check out:
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://szystem.github.io/main/post/2022-02-08-face-recognition/</guid>
-      <description>For two weeks my two colleagues and I have been working on a group project, whose goal is to compare the performance of different algorithms in face recognition. We are focused on SVMs with different kernels and convnets. One more goal is to use data augmentation and transfer learning methods to train a network even on a very small data set. Our final goal is to check network vulnerability by incorporating the adversarial machine learning techniques.</description>
+      <description>This picture shows what the first and the last convolutional layer detect when a network is feeded with a picture of a person.
+For two weeks my two colleagues and I have been working on a group project, whose goal is to compare the performance of different algorithms in face recognition. We are focused on SVMs with different kernels and convnets. One more goal is to use data augmentation and transfer learning methods to train a network even on a very small data set.</description>
     </item>
     
     <item>
