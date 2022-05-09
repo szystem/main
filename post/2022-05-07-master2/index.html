@@ -245,10 +245,11 @@ The .gif at the top illustrates the process …">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <p><img src="time_dirichlet_convergance.gif" alt="t_d_conv"></p>
-<p>As a result of my Master&rsquo;s Project research, we were able to develop a new extension of EM Algorithm, able to cluster observations evolving in time.</p>
+<p>As a result of my Master&rsquo;s Project research, we developed a new extension of EM Algorithm, able to cluster observations evolving in time.</p>
 <p>The .gif at the top illustrates the process of training of the Algorithm. The dataset consists of 220 United Nation countries, divided with respect to gender, red &ndash; female, blue &ndash; male. Three corners of the Ternary plot represent proportions of Single, Married and Widowed citizens, with respect to age (time). Both genders in each country are series of points, representing how the proportion of these three categories evolves, as the age of citizens changes. It can be seen that women tend to marry earlier and are widowed more often.</p>
 <p>Two squares are the expected proportions of two clusters (representing genders), which the algorithm tries to estimate in an unsupervised setting (not knowing which sequences represent men, which women). It can be seen that in the first iteration squares do not follow the patterns made by countries' populations. However, as the algorithm converges, the likelihood increases and the squares start to approximate the behaviour of genders.</p>
 <p>Under the assumption that the clusters returned by the algorithm represent the genders, a confusion matrix of the prediction can be made.</p>
+<p><img src="confusion_matrix.png" alt="conf"></p>
 <!-- raw HTML omitted -->
 
 
