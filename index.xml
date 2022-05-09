@@ -5,7 +5,17 @@
     <link>https://szystem.github.io/main/</link>
     <description>Recent content on My Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://szystem.github.io/main/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master&#39;s Project Results</title>
+      <link>https://szystem.github.io/main/post/2022-05-07-master2/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://szystem.github.io/main/post/2022-05-07-master2/</guid>
+      <description>As a result of my Master&amp;rsquo;s Project research, we were able to develop a new extension of EM Algorithm, able to cluster observations evolving in time.
+The .gif at the top illustrates the process of training of the Algorithm. The dataset consists of 220 United Nation countries, divided with respect to gender, red &amp;ndash; female, blue &amp;ndash; male. Three corners of the Ternary plot represent proportions of Single, Married and Widowed citizens, with respect to age (time).</description>
+    </item>
+    
     <item>
       <title>SVM classifier from scratch</title>
       <link>https://szystem.github.io/main/post/2022-02-22-svmc/</link>
